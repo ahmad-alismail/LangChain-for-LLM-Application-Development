@@ -1,6 +1,6 @@
 # [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 
-In this course, you will gain essential skills in expanding the use cases and capabilities of language models in application development using the LangChain framework.
+Jupyter notebooks covering the key concepts and examples taught in the course, as well as my personal notes and explanations on various topics.
 
 ## Course Content
 

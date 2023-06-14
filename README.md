@@ -1,6 +1,6 @@
-# [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+# LangChain for LLM Application Development
 
-Jupyter notebooks covering the key concepts and examples taught in the course, as well as my personal notes and explanations on various topics.
+Jupyter notebooks cover key concepts and examples, and also include my personal notes and explanations on various topics presented in [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/). This course instructed by the creator of LangChain Harrison Chase as well as Andrew Ng.
 
 ## Course Content
 
@@ -14,6 +14,4 @@ In this course you will learn and get experience with the following topics:
 
 At the end of the course, you will have a model that can serve as a starting point for your own exploration of diffusion models for your applications.
 
-## About the Course
 
-This one-hour course, instructed by the creator of LangChain Harrison Chase as well as Andrew Ng, will vastly expand the possibilities for leveraging powerful language models, where you can now create incredibly robust applications in a matter of hours.
